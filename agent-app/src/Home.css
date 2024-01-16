@@ -1,0 +1,10 @@
+.carousel-image {
+    height: 500px ; 
+}
+.card {
+  margin: 0 5px;
+}
+.card-text{
+  color: green;
+  font-weight: bold;
+}

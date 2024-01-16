@@ -1,0 +1,102 @@
+[
+    {
+      "id": 1,
+      "house": "Cinnamon Life Residence",
+      "description":"Luxurious two-bed apartment with stunning views, open kitchen and premium amenities.",
+      "price": 1800,
+      "rooms": 2,
+      "image": "images/430541380.jpg",
+      "type": "Residencies",
+      "dateAdded": "2024/01/04",
+      "postCode": "00200"
+    },
+    {
+        "id": 2,
+        "house": "7th Sense Residencies",
+        "description":"Exclusive 7th Sense Apartments in Colombo 7, luxury, amenities.",
+        "price": 1850,
+        "rooms": 2,
+        "image": "images/9141981-9994184.jpg",
+        "type": "Residencies",
+        "dateAdded": "2023/11/12",
+        "postCode" : "00100"
+      },
+      {
+        "id": 3,
+        "house": "Iceland Residencies",
+        "description":"Luxurious 3-bed apartment in Colombo 3, Iceland Residencies.",
+        "price": 2000,
+        "rooms": 3,
+        "image": "images/Screenshot (296).png",
+        "type": "Residencies",
+        "dateAdded": "2023/12/12",
+        "postCode" : "00300"
+      },         
+      {
+        "id": 4,
+        "house": "Sky Gardens",
+        "description":"Luxurious 3-bed apartment in Colombo 7, luxury amenities.",
+        "price": 2000,
+        "rooms": 3,
+        "image": "images/Screenshot (286).png",
+        "type": "Residencies",
+        "dateAdded": "2024/01/04",
+        "postCode" : "00400"
+      },
+      {
+        "id": 5,
+        "house": "Capitol Elite Apartments",
+        "description":"Immaculate 2-bed, 2-bath apartment in Colombo 7, luxury amenities.",
+        "price": 1100,
+        "rooms": 2,
+        "image": "images/Screenshot (283).png",
+        "type": "Apartments",
+        "dateAdded": "2024/01/04",
+        "postCode" : "00500"
+      },
+      {
+        "id": 6,
+        "house": "Havelock City Apartment",
+        "description":"Furnished 3-bed apartment in Stratford Tower, Havelock City, Colombo 05.",
+        "price": 1750,
+        "rooms": 3,
+        "image": "images/screenshot (275).png",
+        "type": "Apartments",
+        "dateAdded": "2024/01/04",
+        "postCode" : "00600"
+      },
+      {
+        "id": 7,
+        "house": " Cinnamon Life Colombo",
+        "description":"Luxury 2-bed at Residence Tower, Cinnamon Life, panoramic views, premium amenities.",
+        "price": 1800,
+        "rooms": 2,
+        "image": "images/Screenshot (301).png",
+        "type": "Residencies",
+        "dateAdded": "2023/12/12",
+        "postCode" : "00700"
+      },
+      {
+        "id": 8,
+        "house": "Sense Apartments",
+        "description":"Exclusive 2-bed at 7th Sense, Colombo 7, furnished, premium amenities.",
+        "price": 1850,
+        "rooms": 2,
+        "image": "images/Screenshot (305).png",
+        "type": "Apartments",
+        "dateAdded": "2023/11/12",
+        "postCode" : "00800"
+      },
+      {
+        "id": 9,
+        "house": "Luna Tower Apartment",
+        "description":"Exquisite 2-bed at 7th Sense, Colombo 7, luxury amenities.",
+        "price": 1650,
+        "rooms": 3,
+        "image": "images/Screenshot (317).png",
+        "type": "Apartments",
+        "dateAdded": "2023/11/12",
+        "postCode" : "00900"
+      }
+  ]
+  

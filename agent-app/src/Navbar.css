@@ -1,0 +1,45 @@
+.navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000; 
+  background-color: white;
+}
+.navbar-brand {
+    font-size: 1.5rem;   
+} 
+.navbar-nav .nav-link {
+  color: rgb(255, 255, 255);
+}
+.collapse.show {
+  display: block;
+}
+.navbar-nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style: none;
+  padding-left: 0;
+  margin-left: 244px;
+}
+.navbar-nav .nav-item {
+  margin: 0 15px; 
+}
+h3{
+  font-weight: bold;
+}
+.navbar-nav .nav-item .nav-link:hover {
+  background-color: red;
+  padding: 2px 10px;
+  border-radius: 10%;
+}
+.navbar-form {
+  display: flex;
+  align-items: center;
+}
+
+
+
+
+  
